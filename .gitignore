@@ -7,8 +7,6 @@ __pycache__/
 *.so
 
 
-.github/workflows/cicd.yaml
-
 # Distribution / packaging
 .Python
 build/
